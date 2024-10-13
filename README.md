@@ -15,11 +15,11 @@ Data Analyst @ Scenario Academy
 
 ### Projects
 - SPSS:
-  Project 1
-  Project 2
+  - Project 1
+  - Project 2
 - EXCEL:
-  Project 1
-  Project 2
+  - Project 1
+  - Project 2
 - SQL & PowerBI:
-  Project 1
-  Project 2
+  - Project 1
+  - Project 2
