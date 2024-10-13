@@ -3,7 +3,8 @@
 ### Education 
 - RN, BNSc
 
-### Certifications
+### Certifications & Licenses
+- RN
 - Data Analytics
 - BLS, ACLS, PALS
 - ECG, ECP, HSE
