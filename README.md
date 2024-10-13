@@ -10,8 +10,8 @@
 
 ### Work Experience
 Data Analyst @ Scenario Academy
-- Lagos State Crime Analytics Excel, SQL
-- Synlab General Data SQL, Power BI
+- Lagos State Crime Analytics
+- Synlab General Data
 
 ### Projects
 - SPSS:
