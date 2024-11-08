@@ -3,7 +3,7 @@
 #### Technical Skills: SPSS, SQL, PowerBI, Excel, Python
 
 ## Education 
-- RN (_November, 2022_)
+- RN (_Current_)
 - BNSc (_Candidate_)
 
 ### Certifications & Licenses
