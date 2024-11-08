@@ -2,7 +2,7 @@
 
 #### Technical Skills: SPSS, SQL, PowerBI, Excel, Python
 
-### Education 
+## Education 
 - RN (_November, 2022_)
 - BNSc (_Candidate_)
 
@@ -12,14 +12,14 @@
 - BLS, ACLS, PALS
 - ECG, ECP, HSE
 
-### Work Experience
+## Work Experience
 **Freelance Healthcare Data Analyst & Researcher (_February 2020 - Present_)**
 **Data Analyst @ Scenario Academy**
 - Lagos State Crime Analytics
 - Synlab General Data
 **Published Author (_Copyright 2022_)**
 
-### Projects
+## Projects
 **- SPSS: (_Links attached in files_)**
   - EVALUATION OF THE ATTITUDE AND PERCEPTION OF NURSING STUDENTS TOWARDS E-LEARNING.
     Collated and produced information from data using skills like research, data modelling, data collection, and wrangling generally in the analysis of the perception and attitude of Nursing students towards E-learning, conducted in one of the prominent Nursing schools in Abuja, Nigeria. It utilises a strong pilot study and considerable margin of error to guide the analysis.
