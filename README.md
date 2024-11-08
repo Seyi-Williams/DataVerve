@@ -14,9 +14,11 @@
 
 ## Work Experience
 **Freelance Healthcare Data Analyst & Researcher (_February 2020 - Present_)**
+
 **Data Analyst @ Scenario Academy**
 - Lagos State Crime Analytics
 - Synlab General Data
+
 **Published Author (_Copyright 2022_)**
 
 ## Projects
@@ -34,7 +36,7 @@
     This study evaluates the influence of nursing education on clinical practices among nurses at the University of Abuja Teaching Hospital. Data were collected through surveys to assess how educational background affects practical skills, patient care, and decision-making. The analysis identifies key areas where further educational development can enhance clinical effectiveness and patient outcomes.
   
   - ASSESSMENT OF KNOWLEDGE AND UTILIZATION OF SEXUAL AND REPRODUCTIVE HEALTH SERVICES AMONGST ADOLESCENT AND YOUNG WOMEN IN GWAGWALADA AREA COUNCIL.
-    This assessment explores the awareness and use of sexual and reproductive health services by adolescent and young women in Gwagwalada Area Council. Through surveys, data were collected on knowledge levels, accessibility, and utilization of available services. The study highlights gaps and proposes strategies to improve service uptake and awareness among young women in the area
+     This assessment explores the awareness and use of sexual and reproductive health services by adolescent and young women in Gwagwalada Area Council. Through surveys, data were collected on knowledge levels, accessibility, and utilization of available services. The study highlights gaps and proposes strategies to improve service uptake and awareness among young women in the area.
 
 
 **- EXCEL: (_Links attached in files_)**
