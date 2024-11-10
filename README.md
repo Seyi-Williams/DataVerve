@@ -22,7 +22,7 @@
 **Published Author (_Copyright 2022_)**
 
 ## Projects
-**- SPSS: (_https://drive.google.com/drive/folders/15A3dU4h1M7UA3508mjHyhZByPjw0iLiB?usp=sharing_)**
+**- SPSS: (_https://tinyurl.com/59psffac_)**
   - **EVALUATION OF THE ATTITUDE AND PERCEPTION OF NURSING STUDENTS TOWARDS E-LEARNING.**
     Collated and produced information from data using skills like research, data modelling, data collection, and wrangling generally in the analysis of the perception and attitude of Nursing students towards E-learning, conducted in one of the prominent Nursing schools in Abuja, Nigeria. It utilises a strong pilot study and considerable margin of error to guide the analysis.
   
