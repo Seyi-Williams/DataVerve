@@ -16,11 +16,11 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 ## Work Experience
 **Freelance Healthcare Data Analyst & Researcher (_February 2020 - Present_)**
 
+**Published Author (_Copyright 2022_)**
+
 **Data Analyst Intern @ Scenario Academy (December 2023 - December 2024)**
 - Lagos State Crime Analytics (We used pivot tables and analytical tools to provide insight on the level of crime happening in the suburbs of Lagos state. Details below.)
 - Synlab General Data (Provided data was worked on alongside major stakeholders to prepare data and highlight the business' insights)
-
-**Published Author (_Copyright 2022_)**
 
 ## Projects
 **- SPSS: _[Files](https://tinyurl.com/59psffac)_**
