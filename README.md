@@ -1,7 +1,7 @@
 # Data Analyst
 
 #### Technical Skills: SPSS, SQL, PowerBI, Excel, Python, Statistics
-Other skills includeexpertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
+Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
 
 ## Education 
 - RN (_Current_)
