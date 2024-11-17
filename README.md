@@ -1,6 +1,7 @@
 # Data Analyst
 
 #### Technical Skills: SPSS, SQL, PowerBI, Excel, Python, Statistics
+Other skills includeexpertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
 
 ## Education 
 - RN (_Current_)
@@ -15,14 +16,14 @@
 ## Work Experience
 **Freelance Healthcare Data Analyst & Researcher (_February 2020 - Present_)**
 
-**Data Analyst @ Scenario Academy**
-- Lagos State Crime Analytics
-- Synlab General Data
+**Data Analyst Intern @ Scenario Academy (December 2023 - December 2024)**
+- Lagos State Crime Analytics (We used pivot tables and analytical tools to provide insight on the level of crime happening in the suburbs of Lagos state. Details below.)
+- Synlab General Data (Provided data was worked on alongside major stakeholders to prepare data and highlight the business' insights)
 
 **Published Author (_Copyright 2022_)**
 
 ## Projects
-**- SPSS:_[Files](https://tinyurl.com/59psffac)_**
+**- SPSS: _[Files](https://tinyurl.com/59psffac)_**
   - **EVALUATION OF THE ATTITUDE AND PERCEPTION OF NURSING STUDENTS TOWARDS E-LEARNING.**
     Collated and produced information from data using skills like research, data modelling, data collection, and wrangling generally in the analysis of the perception and attitude of Nursing students towards E-learning, conducted in one of the prominent Nursing schools in Abuja, Nigeria. It utilises a strong pilot study and considerable margin of error to guide the analysis.
   
@@ -38,12 +39,14 @@
   - **ASSESSMENT OF KNOWLEDGE AND UTILIZATION OF SEXUAL AND REPRODUCTIVE HEALTH SERVICES AMONGST ADOLESCENT AND YOUNG WOMEN IN GWAGWALADA AREA COUNCIL.**
      This assessment explores the awareness and use of sexual and reproductive health services by adolescent and young women in Gwagwalada Area Council. Through surveys, data were collected on knowledge levels, accessibility, and utilization of available services. The study highlights gaps and proposes strategies to improve service uptake and awareness among young women in the area.
 
+- ** Many more works attached in _[SPSS Files](https://tinyurl.com/59psffac)_
 
-**- EXCEL: (_Links attached in files_)**
-  - Project 1
+**- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
+  - **LAGOS CRIME DATA SET.**
+    Made use of already collated data, to produce insights for the Lagos State Government, in Nigeria. The data was cleaned and made dynamic for presentation in pivot tables and insights were highlighted from the data. uggestions were made in respect to the data on what could be curbed, and how implementation can occur. We also worked as a team to ensure understanding of the team stakeholders in presentation of the insights and information presented.
   - Project 2
 
 
-**- SQL & PowerBI: (_Links attached in files_)**
+**- SQL & PowerBI: _[SQBI FILES](https://tinyurl.com/yzuz4xda)_**
   - Project 1
   - Project 2
