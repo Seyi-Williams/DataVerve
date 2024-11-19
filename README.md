@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: SPSS, SQL, PowerBI, Excel, Python, Statistics
+#### Technical Skills: SQL, PowerBI, Excel, Python, Statistics, SPSS
 Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
 
 ## Education 
@@ -18,11 +18,20 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 
 **Published Author (_Copyright 2022_)**
 
-**Data Analyst Intern @ Scenario Academy (December 2023 - December 2024)**
+**Data Analyst @ Scenario Developers (December 2023 - December 2024)**
 - Lagos State Crime Analytics (We used pivot tables and analytical tools to provide insight on the level of crime happening in the suburbs of Lagos state. Details below.)
-- Synlab General Data (Provided data was worked on alongside major stakeholders to prepare data and highlight the business' insights)
+- Synlab Overall Business Performance (Provided data was worked on alongside major stakeholders to prepare data and highlight the business' insights)
 
 ## Projects
+**- SQL & PowerBI: _[SQBI FILES](https://tinyurl.com/yzuz4xda)_**
+  - Project 1
+  - Project 2
+
+**- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
+  - **LAGOS CRIME DATA SET.**
+    Made use of already collated data, to produce insights for the Lagos State Government, in Nigeria. The data was cleaned and made dynamic for presentation in pivot tables and insights were highlighted from the data. uggestions were made in respect to the data on what could be curbed, and how implementation can occur. We also worked as a team to ensure understanding of the team stakeholders in presentation of the insights and information presented.
+  - Project 2
+
 **- SPSS: _[Files](https://tinyurl.com/59psffac)_**
   - **EVALUATION OF THE ATTITUDE AND PERCEPTION OF NURSING STUDENTS TOWARDS E-LEARNING.**
     Collated and produced information from data using skills like research, data modelling, data collection, and wrangling generally in the analysis of the perception and attitude of Nursing students towards E-learning, conducted in one of the prominent Nursing schools in Abuja, Nigeria. It utilises a strong pilot study and considerable margin of error to guide the analysis.
@@ -41,12 +50,3 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 
 - ** Many more works attached in _[SPSS Files](https://tinyurl.com/59psffac)_
 
-**- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
-  - **LAGOS CRIME DATA SET.**
-    Made use of already collated data, to produce insights for the Lagos State Government, in Nigeria. The data was cleaned and made dynamic for presentation in pivot tables and insights were highlighted from the data. uggestions were made in respect to the data on what could be curbed, and how implementation can occur. We also worked as a team to ensure understanding of the team stakeholders in presentation of the insights and information presented.
-  - Project 2
-
-
-**- SQL & PowerBI: _[SQBI FILES](https://tinyurl.com/yzuz4xda)_**
-  - Project 1
-  - Project 2
