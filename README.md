@@ -30,9 +30,10 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 **- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
   - **LAGOS CRIME DATA SET.**
     Made use of already collated data, to produce insights for the Lagos State Government, in Nigeria. The data was cleaned and made dynamic for presentation in pivot tables and insights were highlighted from the data. uggestions were made in respect to the data on what could be curbed, and how implementation can occur. We also worked as a team to ensure understanding of the team stakeholders in presentation of the insights and information presented.
-  - Project 2
+  - **NURSES EMIGRATION DATA SET.**
+  - **COVID-19 DATA SET FROM NIGERIA CENTRE FOR DISEASE CONTROL.**
 
-**- SPSS: _[Files](https://tinyurl.com/59psffac)_**
+**- SPSS: _[SPJ Files](https://tinyurl.com/59psffac)_**
   - **EVALUATION OF THE ATTITUDE AND PERCEPTION OF NURSING STUDENTS TOWARDS E-LEARNING.**
     Collated and produced information from data using skills like research, data modelling, data collection, and wrangling generally in the analysis of the perception and attitude of Nursing students towards E-learning, conducted in one of the prominent Nursing schools in Abuja, Nigeria. It utilises a strong pilot study and considerable margin of error to guide the analysis.
   
