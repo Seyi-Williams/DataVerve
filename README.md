@@ -38,11 +38,7 @@ image: /assets/Lagos_Crime.jpeg
 
   - **NETFLIX MOVIE RELEASE DATASET**
     Leveraged pre-existing Netflix movie release data to extract actionable insights. The dataset was cleaned and structured, enabling dynamic analysis through pivot tables, revealing key trends in release patterns and genres. I collaborated to present these findings, offering data-driven suggestions on potential content strategy adjustments.
----
-title: Page Image
-image: /assets/Netflix_Release.jpeg
----
-![Netflix Release Dashboard]({{ page.image }})
+![Netflix Release Dashboard](/assets/Netflix_Release.jpeg)
 
   - **NURSES EMIGRATION DATA SET.**
   - **COVID-19 DATA SET FROM NIGERIA CENTRE FOR DISEASE CONTROL.**
