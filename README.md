@@ -1,6 +1,6 @@
 # Data Analyst
-_[Mail](mailto:seysho97@gmail.com)_ 
-_[LinkedIn](www.linkedin.com/in/seyi-shokera-1b49921a8)_
+- _[Mail](mailto:seysho97@gmail.com)_ 
+- _[LinkedIn](www.linkedin.com/in/seyi-shokera-1b49921a8)_
 
 #### Technical Skills: SQL, PowerBI, Excel, Python, Statistics, SPSS
 Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
