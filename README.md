@@ -30,11 +30,11 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 **- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
   - **LAGOS CRIME DATA SET.** 
     Made use of already collated data, to produce insights for the Lagos State Government, in Nigeria. The data was cleaned and made dynamic for presentation in pivot tables and insights were highlighted from the data. Suggestions were made in respect to the data on what could be curbed, and how implementation can occur. We also worked as a team to ensure understanding of the team stakeholders in presentation of the insights and information presented.
-    ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+    ![Lagos Crime Dashboard](/assets/Lagos%20Crime.png)
 
   - **NETFLIX MOVIE RELEASE DATASET**
     Leveraged pre-existing Netflix movie release data to extract actionable insights. The dataset was cleaned and structured, enabling dynamic analysis through pivot tables, revealing key trends in release patterns and genres. I collaborated to present these findings, offering data-driven suggestions on potential content strategy adjustments.
-    ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+    ![Netflix Release Dashboard](/assets/img/Netflix%20Release.png)
 
   - **NURSES EMIGRATION DATA SET.**
   - **COVID-19 DATA SET FROM NIGERIA CENTRE FOR DISEASE CONTROL.**
