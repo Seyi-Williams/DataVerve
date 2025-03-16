@@ -1,5 +1,5 @@
 # Data Analyst
-_[Mail](mailto:seysho97@gmail.com)_ _[LinkedIn](www.linkedin.com/in/seyi-shokera-1b49921a8)_
+_[Mail](mailto:seysho97@gmail.com)_     _[LinkedIn](www.linkedin.com/in/seyi-shokera-1b49921a8)_
 
 #### Technical Skills: SQL, PowerBI, Excel, Python, Statistics, SPSS
 Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams, Batchscript
@@ -27,17 +27,23 @@ Other skills include expertise in: Microsoft Word, PowerPoint, Publisher, Teams,
 **- SQL & PowerBI: _[SQBI FILES](https://tinyurl.com/yzuz4xda)_**
   - **World Wide Imports Dashboard**
     Navigated the business's provided database using SQL to run various function in eliminating duplicates, querying and retrieving specific data from a relational database, filtering and sorting results to meet reporting requirements. Also, SQL was used to generate reports that were then used in dashboards. I then later used powerquery to do the final cleanups and then created necessary measures using DAX, join and refine the model of the database. A dashboard was then created to visualize the outcome and requirements of the client.
+
 ![WWI_Dashboard](/assets/WWI_Dashboard.jpeg)
   
  - **PSG Player Nutrition Dashboard**
     Utilized SQL to effectively manage and refine the client's database, employing functions like DISTINCT and GROUP BY to eliminate duplicate records and aggregate data. Executed complex SELECT queries with WHERE clauses and ORDER BY to retrieve and filter specific data, fulfilling precise reporting requirements. Further, implemented aggregate functions such as SUM, AVG, and COUNT to generate insightful reports, subsequently integrated into dynamic dashboards. Optimized query performance by analyzing execution plans and adding indexes where necessary. Transitioned data into Power Query for final data cleansing and shaping, creating calculated columns and custom transformations. Developed critical measures using DAX, enabling interactive analysis and revealing key performance indicators. Finally, designed and delivered a visually compelling dashboard that met the client's requirements, delivering actionable insights.
+
  ![PSG_Dashboard](/assets/PSG_Player_Nutrition_Data.jpeg)
+ 
  ![PSG_Model](/assets/Player_Nutrition_Model.jpeg)
 
    - **SYNLAB Dashboard**
     Employed SQL to expertly manage and refine a complex client database, utilizing functions such as DISTINCT and GROUP BY to eliminate duplicates and aggregate data. Executed intricate SELECT queries with WHERE and ORDER BY clauses to retrieve and filter specific data for precise reporting. Leveraged JOIN operations to combine datasets across multiple tables, enabling comprehensive analysis. Performed aggregate functions like SUM, AVG, and COUNT to generate insightful reports for dynamic dashboards. To ensure data accuracy, I meticulously cross-referenced minute details within the database against external sources using Excel's VLOOKUP and IF functions, identifying and correcting discrepancies. Optimized query performance by analyzing execution plans and implementing indexing strategies. Data was then transitioned to Power Query for final cleansing and shaping, creating calculated columns and custom transformations. Developed critical measures using DAX, enabling interactive analysis and revealing key performance indicators. Finally, designed and delivered a visually compelling dashboard that met the client's requirements, delivering actionable insights.
+
 ![SYNLAB_Dashboard1](/assets/SYNLAB_Overall_Business_Data1.jpeg)
+
 ![SYNLAB_Dashboard2](/assets/SYNLAB_Overall_Business_Data2.jpeg)
+
 ![SYNLAB_Business_Model](/assets/SYNLAB_Business_Model.jpeg)
 
 **- EXCEL: _[XLSX Files](https://tinyurl.com/4hmzhkj7)_**
